@@ -1,2 +1,1 @@
-# games
-game
+games is not omething that i konw
